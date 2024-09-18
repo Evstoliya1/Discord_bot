@@ -75,4 +75,4 @@ async def cool(ctx):
         await ctx.send(f'No, {ctx.subcommand_passed} is not cool')
 
 
-bot.run("MTI3NzI5MjM5Mzg2NzEyMDY1MA.Gm4mcc.4vJz531RVh4UbygPrpzrO_l3ZP0tociWiX5oo4")
+bot.run("MTI4NTQ0MDEyODMwMjcxMDg3NQ.GYUi-E.LZfSFekFtOMRW8Mf7d1VoFVZl9ZR00gmR84Ta0")
